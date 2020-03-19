@@ -31,4 +31,15 @@ img {
 .container {
   margin: 1rem;
 }
+
+@media only screen and (min-width: 768px) {
+  .container {
+    width: 45vw;
+    margin: auto;
+  }
+  .pagina {
+    margin-top: 4rem;
+    margin-bottom: 4rem;
+  }
+}
 /*# sourceMappingURL=main.css.map */
